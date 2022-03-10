@@ -1,5 +1,5 @@
-<a href="https://t.me/pricetrackingrobot"> <img src="https://telegra.ph/file/081d452dd37708fb4777b.png" alt="Logo" style="border-radius:15px;"></a><br><br>
-
+ 
+![image](https://user-images.githubusercontent.com/88939380/157654766-9bf1eea8-2225-4e1a-b2ee-777ab59a30b3.png)</center>
 
 
 A Telegram bot that can track price of amazon & flipkart products (Soon more).
@@ -30,3 +30,7 @@ If you like this project, please leave a 🌟.
 ```
 
 ---
+
+
+## Credits
+- [To me for nothing](https://github.com/adarsh-goel/)
